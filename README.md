@@ -1,11 +1,18 @@
 # Polonez Kapitan
 
-**Elektryczny terenowy wariant Poloneza** (cywilny + wojskowy użytkowy)
+**Elektryczny terenowy wariant Poloneza**
 
-## Aktualna zawartość
+## Warianty
+
+- **Kapitan Cywilny** – terenowy / wyprawowy / użytkowy
+- **Kapitan Wojskowy** – platforma użytkowa (transport, łączność, logistyka)
+- **Kapitan Górski** – bardziej ekstremalny wariant terenowy (wyższy prześwit, agresywniejsze kąty, dłuższy skok, wyciągarki)
+
+## Dokumenty
 
 - `docs/koncepcja-wstepna.md`
-- `docs/geometria-terenowa.md` – prześwit, kąty, zawieszenie, mosty, osłony, wariant wojskowy
+- `docs/geometria-terenowa.md`
+- `docs/wariant-gorski.md`
 
 Zasady: Maintainability First, Circular DIY, Low-Cost.
 
